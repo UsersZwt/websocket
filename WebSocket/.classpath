@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ecj-4.2.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="F:/Tomcat7.0/apache-tomcat-7.0.42/bin/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="F:/Tomcat7.0/apache-tomcat-7.0.42/lib/catalina.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

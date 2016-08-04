@@ -1,0 +1,16 @@
+<%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=UTF-8>
+		<title>Login</title>
+		
+	</head>
+	<body>
+		<form action="/WebScoket/loginServlet" method="post">
+			请输入用户名:<input type="text" name="name"/>
+			<input type="submit" value="提交"/>
+		</form>
+	</body>
+</html>
